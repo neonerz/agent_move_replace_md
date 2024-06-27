@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "agent_move_replace.md"
+        "agent_move_replace.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
